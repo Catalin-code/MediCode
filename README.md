@@ -31,8 +31,8 @@
 
 1. Open scripts using SSMS and execute them
 2. Open project solution in preferred IDE (I used Visual Studio)
-3. In Visual Studio click on View -> Server Explorer -> Right-Click on Data Connections -> Add connection -> Data source: Microsoft SQL Server (SqlClient) -> Click OK
+3. In Visual Studio click on View -> Server Explorer -> Right-Click on Data Connections -> Add connection -> Data source: Microsoft SQL Server (SqlClient)
                                                                                                              Server name: (Your server name)
                                                                                                              Authentication: Windows authentication
-                                                                                                             Select or enter a database name: MediCode
+                                                                                                             Select or enter a database name: MediCode -> Click OK
 4. In Visual Studio click on Start
